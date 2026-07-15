@@ -3,14 +3,14 @@
 # Autor: Rayner Cory 3RO SECUNDARIA
 # ===========================================
 
-saldo = 20000
-pin_correcto = "9012"
+saldo = 6900
+pin_correcto = "3456"
 
 print("===================================")
-print("     BIENVENIDO AL CAJERO DEL INTERBANKK")
+print("     BIENVENIDO AL CAJERO DEL BBVA")
 print("===================================")
 
-pin = input("Ingresar PIN: ")
+pin = input("Por favor ingrese su PIN: ")
 
 if pin == pin_correcto:
 
